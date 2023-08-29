@@ -15,7 +15,7 @@
 
 <p align="center" style="font-size: 15px;"><b>Connect with me:</b></p>
 <p align="center"><a href="https://github.com/dikhiachmaddani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&color=24283b&logo=Github&logoColor=white" /></a> 
-<a href="https://www.instagram.com/dikhi_achmad/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=for-the-badge&color=24283b&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/dikhiachmaddani/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=for-the-badge&color=24283b&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/dikhiachmaddani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&color=24283b&logo=linkedin&logoColor=white" /></a></p>
 
 <p align="center"> 
