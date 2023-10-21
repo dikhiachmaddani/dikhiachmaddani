@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 30px;margin:0;"><b>Ciao 👋, I'm <a href="https://www.dikhiachmaddani.my.id">Dikhi Achmad Dani</a></b></h1>
+<h1 align="center" style="font-size: 30px;margin:0;"><b>Ciao 👋, I'm <a href="https://www.dikhiachmaddani.my.id" style="color:white;background-color:#24283b;">Dikhi Achmad Dani</a></b></h1>
 <p align="center" style="font-size: 15px;margin:20px 0;">Currently I am open to learn anything, especially in the IT field as a Web Developer. then, the programming that I use now and there are things that I'm still learning is:</p>
 <p align="center"> 
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="30" height="30"/>
