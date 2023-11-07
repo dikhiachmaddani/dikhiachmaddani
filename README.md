@@ -19,5 +19,5 @@
 <a href="https://www.linkedin.com/in/dikhiachmaddani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&color=24283b&logo=linkedin&logoColor=white" /></a></p>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=DikhiAchmad&style=flat-square&color=293A58" />
+    <img src="https://komarev.com/ghpvc/?username=dikhiachmaddani&style=flat-square&color=293A58" />
 </p>
