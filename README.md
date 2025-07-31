@@ -1,6 +1,7 @@
-<h1 align="center" style="font-size: 30px;margin:0;"><b>Ciao 👋, I'm Dikhi Achmad Dani</b></h1>
+<h1 align="center" style="font-size: 30px;margin:0;"><b>Ciao 👋, Mi Chiamo Dikhi Achmad Dani</b></h1>
 <p align="center" style="font-size: 15px;margin:20px 0;">Currently I am open to learn anything, especially in the IT field as a Web Developer. then, the programming that I use now and there are things that I'm still learning is:</p>
 <p align="center"> 
+<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/dotnet/dotnet.png" alt="dotnet" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/spring-boot/spring-boot.png" alt="springboot" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/flutter/flutter.png" alt="springboot" width="30" height="30"/>
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="reactjs" width="30" height="30"/>
