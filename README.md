@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJtMHBzemZreDh3am1yZnplZzBqM2w1b3JicGp6ZzAxd2Z4d2tncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" alt="dotnet" width="200" height="200"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJtMHBzemZreDh3am1yZnplZzBqM2w1b3JicGp6ZzAxd2Z4d2tncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" alt="dotnet" width="125" height="125"/>
 </p> 
 <h1 align="center" style="font-size: 30px;margin:0;"><b>Ciao 👋, sono Dikhi Achmad Dani. Piacere!</b></h1>
 <p align="center" style="font-size: 15px;margin:20px 0;">Currently I am open to learn anything, especially in the IT field as a Web Developer. then, the programming that I use now and there are things that I'm still learning is:</p>
