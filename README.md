@@ -1,6 +1,3 @@
-<p align="center"> 
-<img src="gyokeres-arsenal.gif" alt="dotnet" width="150" height="150"/>
-</p> 
 <h1 align="center" style="font-size: 30px;margin:0;"><b>Ciao 👋, sono Dikhi Achmad Dani. Piacere!</b></h1>
 <p align="center" style="font-size: 15px;margin:20px 0;">Currently I am open to learn anything, especially in the IT field as a Web Developer. then, the programming that I use now and there are things that I'm still learning is:</p>
 <p align="center"> 
@@ -20,3 +17,6 @@
 <a href="https://www.instagram.com/dikhiachmaddani/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=for-the-badge&color=D2042D&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/dikhiachmaddani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&color=D2042D&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@dikhiachmaddani" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&color=D2042D&logo=medium&logoColor=white" /></a></p>
+<p align="center"> 
+<img src="gyokeres-arsenal.gif" alt="dotnet" width="150" height="150"/>
+</p> 
